@@ -1,0 +1,1 @@
+1 79.472 79.443 79.474 79.485 79.46train_acc 81.250%   train_loss 0.5272test_acc 79.480%   test_loss 0.5877   time 951.65s
